@@ -15,6 +15,6 @@ go install github.com/haormj/code-generator@latest
 - cd /path/to/dir
 - code-generator init
 - write some template, ref
-    - https://masterminds.github.io/
+    - https://masterminds.github.io/sprig
     - https://pkg.go.dev/text/template
 - code-generator generator 
