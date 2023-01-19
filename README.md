@@ -17,4 +17,4 @@ go install github.com/haormj/code-generator@latest
 - write some template, ref
     - https://masterminds.github.io/sprig
     - https://pkg.go.dev/text/template
-- code-generator generator 
+- code-generator generate 
